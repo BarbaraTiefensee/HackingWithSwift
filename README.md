@@ -1,2 +1,2 @@
 # HackingWithSwift
-projwct
+project of 100 Days of Swift
